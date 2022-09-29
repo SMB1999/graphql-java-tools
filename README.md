@@ -17,7 +17,7 @@ Are you interested in improving our documentation, working on the codebase, revi
 [Reach out to us on GitHub](https://github.com/graphql-java-kickstart/graphql-java-tools/discussions) and join the team!
 
 ## Quick start
-
+// Quick start Guid
 ### Using Gradle
 Set the Kotlin version in your `gradle.properties`:
 ```
